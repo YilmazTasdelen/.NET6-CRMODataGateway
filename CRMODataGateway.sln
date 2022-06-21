@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRMODataGateway", "CRMODataGateway\CRMODataGateway.csproj", "{C7AA8C1F-330E-4E05-82BF-1B69B6DF4A84}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ODataGateway.Shared", "Shared\ODataGateway.Shared.csproj", "{49B00E33-F0E2-4D0D-98D8-DF1CB2F23F40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7AA8C1F-330E-4E05-82BF-1B69B6DF4A84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7AA8C1F-330E-4E05-82BF-1B69B6DF4A84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7AA8C1F-330E-4E05-82BF-1B69B6DF4A84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7AA8C1F-330E-4E05-82BF-1B69B6DF4A84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49B00E33-F0E2-4D0D-98D8-DF1CB2F23F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49B00E33-F0E2-4D0D-98D8-DF1CB2F23F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49B00E33-F0E2-4D0D-98D8-DF1CB2F23F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49B00E33-F0E2-4D0D-98D8-DF1CB2F23F40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EB791E1-0C11-41AF-BCE9-6BBB31B2B8DB}
+	EndGlobalSection
+EndGlobal
