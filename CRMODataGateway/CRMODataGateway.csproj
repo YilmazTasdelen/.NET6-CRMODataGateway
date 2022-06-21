@@ -20,4 +20,8 @@
     <ProjectReference Include="..\Shared\ODataGateway.Shared.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Docs\" />
+  </ItemGroup>
+
 </Project>
