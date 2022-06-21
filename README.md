@@ -1,5 +1,7 @@
 <h3>CRMODataGateway</h3>
 
+for more detail: https://docs.microsoft.com/en-us/power-apps/developer/data-platform/webapi
+
 this gateway routing crm dynamics rest/Odata requests to crm from out of newtowrk or AD domain. 
 (This methods is not recomended. You should use for spesific scenarios.) <br>
 
